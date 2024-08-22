@@ -1,0 +1,22 @@
+day 1 react class 
+
+we create normal html file using vscode.
+
+then create element using javascript 
+
+after applied react CDN in index file
+
+write code for using react for creating element.
+
+in this code root.render will override the intial content of the "Id". 
+
+in react.createElement have 3 parameter.
+
+1. html element,
+2. props(like id,class,style,etc
+3. message.
+
+if we create a div element means 3 parameter will be a array. inside array we can put whatever element we want to create inside of div. 
+this is also called passing children , these are reactelement.
+
+ 
